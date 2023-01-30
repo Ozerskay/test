@@ -1,2 +1,3 @@
 # Hello,world!
-I study in Netology
+I study in Netogy
+30.01.2023
